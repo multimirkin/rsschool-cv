@@ -12,7 +12,7 @@
 
 ## Skills and courses:
 
-> I am familiar a bit with HTML, CSS and JS programming langages. Use to take a self study Front-End Engeneering course at [CodeCademy](codecademy.com) in a past and would like to advanced further with my knoledge by attending in this course programm.
+> I am familiar a bit with HTML, CSS and JS programming languages. Also experienced with Adobe Illustrator and Photoshop. Used to take a self study Front-End Engeneering course at [CodeCademy](codecademy.com) in a past and would like to advanced further with my knoledge by attending in this course programm.
 
 ## Code example:
 
