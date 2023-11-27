@@ -80,6 +80,10 @@ nav li:hover {
   transition: color 0.1s ease-in, background-color 0.1s ease-in;
 }
 
+img {
+  border-radius: 50%;
+}
+
 /* Header */
 
 .banner {
@@ -133,7 +137,8 @@ a:visited {
   font-family: annifont;
   color: #edbb00;
   font-size: 2em;
-  margin: 2px;
+  margin: 40px;
+  text-decoration: none;
 }
 
 .btn {
